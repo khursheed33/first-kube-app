@@ -1,0 +1,11 @@
+{
+    "hostname": "localhost",
+    "port": 8080,
+    "databases":{
+        "mongodb": {
+            "hostname": "locahost",
+            "port": 27017,
+            "url": "mongodb://locahost:27017"
+        }
+    }
+}
